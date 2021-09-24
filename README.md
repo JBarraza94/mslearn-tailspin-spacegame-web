@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jorgebarraza/Space%20Game/_apis/build/status/JBarraza94.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/jorgebarraza/Space%20Game/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
